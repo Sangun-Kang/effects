@@ -1,2 +1,3 @@
 # effects
-포토폴리오
+
+React + typeScript Test
